@@ -1,3 +1,6 @@
+// NOTE:
+// For this to work, you need R installed with R packages Rcpp and RInside.
+// This is not a standalone library (unfortunately).
 [
  { "config": {
     "component": "rcpp",
